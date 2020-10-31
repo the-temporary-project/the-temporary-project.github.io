@@ -164,7 +164,7 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 .templateux-footer .footer-social a { color: #2d0330; position: relative; -webkit-transition: .3s all ease; -o-transition: .3s all ease; transition: .3s all ease; font-size: 26px; }
 
-.templateux-footer .footer-social a:hover, .templateux-footer .footer-social a:focus { color: #000000; -webkit-transform: scale(1.7); -ms-transform: scale(1.7); transform: scale(1.7); }
+.templateux-footer .footer-social a:hover, .templateux-footer .footer-social a:focus { color: #2d0330; -webkit-transform: scale(1.7); -ms-transform: scale(1.7); transform: scale(1.7); }
 
 .btn:hover, .btn:focus, .btn:active { outline: none; -webkit-box-shadow: none !important; box-shadow: none !important; }
 
