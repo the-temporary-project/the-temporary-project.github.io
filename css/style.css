@@ -12,6 +12,11 @@ hr.white {
   border-top: 1px solid rgba(255,255,255, 0.1);
 }
 
+.fa-instagram {
+  background: #010380;
+  color: white;
+}
+
 body { font-size: 16px; line-height: 1.8; color: #6c757d; font-family: -apple-system, "Akzidenz-Grotesk", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
 
 ::-moz-selection { background: yellow; }
