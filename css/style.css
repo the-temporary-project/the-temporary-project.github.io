@@ -1,3 +1,45 @@
+.geeks {
+    width: ;
+    height: ;
+    overflow: ;
+    margin: 0 auto;
+}
+
+.geeks img {
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+}
+
+.geeks:hover img {
+    transform: scale(1.5);
+}
+
+.shop-button {
+  display: inline-block;
+  padding: 5px 10px;
+  font-family: 'Rubik', sans-serif;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: 0 none;
+  color: #382b22;
+  background-color: #ffe9e9;
+  border: 2px solid #b18597;
+  border-radius: 10px;
+  box-shadow: 0 9px #f9c4d2;
+}
+
+.shop-button:hover {background-color: #ffe9e9;
+  transform: translateY(2px)
+}
+
+.shop-button:active {
+  background-color: #ffe9e9;
+  box-shadow: 0 5px #f9c4d2;
+  transform: translateY(4px);
+}
+
 hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -15,6 +57,11 @@ hr.white {
 .fa-instagram {
   background: #010380;
   color: white;
+}
+
+p.small {
+  line-height: 0.7;
+  font-size: 16px
 }
 
 body { font-size: 16px; line-height: 1.8; color: #6c757d; font-family: -apple-system, "Akzidenz-Grotesk", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
@@ -100,7 +147,7 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 .templateux-hero.overlay .lead { color: #fff; opacity: .5; }
 
-.templateux-hero, .intro { height: 90vh; min-height: 700px; }
+.templateux-hero, .intro { padding-top: -100px; height: 90vh; min-height: 700px; }
 
 .templateux-hero h1, .intro h1 { color: #000; font-size: 70px; }
 
