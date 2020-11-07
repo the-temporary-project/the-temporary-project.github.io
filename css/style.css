@@ -132,7 +132,7 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 .menu-open .templateux-navbar { position: fixed; left: 0; top: 0; }
 
-@media (max-width: 767.98px) { .menu-open .site-logo a { color: #000 !important; } }
+@media (max-width: 767.98px) { .menu-open .site-logo a { color: #000; font-size: 83px !important; } }
 
 .menu-open .navbar-light .hamburger .hamburger-inner, .menu-open .navbar-light .hamburger .hamburger-inner::before, .menu-open .navbar-light .hamburger .hamburger-inner::after { background-color: #000; }
 
