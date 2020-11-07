@@ -124,7 +124,7 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 @media (max-width: 767.98px) { .templateux-navbar .templateux-menu ul { margin-left: 0px; } }
 
-.templateux-navbar.navbar-light .site-logo a { color: #fff; font-size: 50px }
+.templateux-navbar.navbar-light .site-logo a { color: #fff; font-size: 65px }
 
 .templateux-navbar.navbar-light .hamburger .hamburger-inner, .templateux-navbar.navbar-light .hamburger .hamburger-inner::before, .templateux-navbar.navbar-light .hamburger .hamburger-inner::after { background-color: #fff; }
 
