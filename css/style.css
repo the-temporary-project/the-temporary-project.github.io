@@ -7,6 +7,12 @@ html,body
     overflow-x: none;
 }
 
+.roomlink {
+   color:#010380;
+   text-decoration: none;
+   border-bottom: 1px solid #999999;
+}
+
 #logo {
   font-size: 20vw;
   text-align: center;
